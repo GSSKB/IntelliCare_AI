@@ -1,10 +1,10 @@
-🧠 IntelliCare AI
+🧠 **IntelliCare AI**
 
 Welcome to IntelliCare AI!
 This project demonstrates my ability to build a full-stack AI-powered healthcare application that delivers intelligent medical consultations using modern web technologies, machine learning, and natural language processing.
 
 
-🚀 Project Overview
+🚀 **Project Overview**
 
 IntelliCare AI showcases my ability to:
 	•	Build a full-stack AI application using React and FastAPI
@@ -14,7 +14,7 @@ IntelliCare AI showcases my ability to:
 	•	Apply real-world AI concepts in a production-style web application
 
 
-✨ Key Features
+✨** Key Features**
 	•	AI-Powered Medical Chat
 Users can interact with an intelligent medical assistant that provides contextual responses based on medical knowledge.
 	•	Retrieval-Augmented Generation (RAG)
@@ -25,16 +25,16 @@ A clean, responsive frontend designed for smooth interaction across devices.
 Backend services expose REST APIs that connect AI logic, document retrieval, and frontend requests efficiently.
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
-Frontend
+**Frontend**
 	•	React 18 + TypeScript
 	•	Vite
 	•	Tailwind CSS + shadcn/ui
 	•	React Router DOM
 	•	React Query
 
-Backend & AI
+**Backend & AI**
 	•	FastAPI + Uvicorn
 	•	Python (scikit-learn, pandas, numpy)
 	•	NLP: spaCy, NLTK
@@ -42,7 +42,7 @@ Backend & AI
 	•	Sentence Transformers (Embeddings)
 
 
-📁 Project Structure
+📁 **Project Structure**
 
 The project follows a modular and maintainable structure:
 	•	Separate frontend and backend folders
@@ -53,7 +53,7 @@ The project follows a modular and maintainable structure:
 This structure supports scalability and future enhancements.
 
 
-🔮 Future Enhancements
+🔮** Future Enhancements**
 
 Planned improvements include:
 	•	Enhanced medical knowledge base
