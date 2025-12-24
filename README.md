@@ -95,4 +95,4 @@ This project is intended for **educational and demonstration purposes only** and
 ## 👨‍💻 Author
 
 **Full-Stack AI Developer**  
-Built with ❤️ using React, FastAPI, and AI technologies
+Built using React, FastAPI, and AI technologies
