@@ -11,5 +11,5 @@ nltk==3.8.1
 textblob==0.17.1
 spacy==3.7.2
 sentence-transformers==2.2.2
-torch==2.0.1
+torch>=2.2.0
 requests==2.31.0
