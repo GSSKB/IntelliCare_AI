@@ -1,0 +1,49 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2DD4BF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#14B8A6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="overlayGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0" />
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="3" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Icon Container -->
+  <g>
+    <!-- Rounded square background with gradient -->
+    <rect x="10" y="20" width="80" height="80" rx="16" fill="url(#logoGradient)" filter="url(#shadow)"/>
+    
+    <!-- Overlay gradient -->
+    <rect x="10" y="20" width="80" height="80" rx="16" fill="url(#overlayGradient)"/>
+    
+    <!-- Heart Icon -->
+    <path d="M50 50C50 50 42 44 38 44C34 44 32 50 32 56C32 62 42 72 50 85C58 72 68 62 68 56C68 50 66 44 62 44C58 44 50 50 50 50Z" fill="white" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+    
+    <!-- Brain Icon (smaller, positioned top-right) -->
+    <g transform="translate(65, 35)">
+      <path d="M8 5C8 5 6 4 5 4C4 4 3.5 5 3.5 6C3.5 7 6 8.5 8 11C10 8.5 11.5 7 11.5 6C11.5 5 11 4 10 4C9 4 8 5 8 5Z" fill="white" stroke="white" stroke-width="1.2" stroke-linejoin="round"/>
+      <path d="M6 7.5C6 7.5 5 6.5 4 6.5C3 6.5 2.5 7.5 2.5 8.5C2.5 9.5 4 11 6 13.5C8 11 9.5 9.5 9.5 8.5C9.5 7.5 9 6.5 8 6.5C7 6.5 6 7.5 6 7.5Z" fill="white" stroke="white" stroke-width="1.2" stroke-linejoin="round" opacity="0.9"/>
+      <circle cx="5.5" cy="6" r="0.8" fill="white"/>
+      <circle cx="9.5" cy="6" r="0.8" fill="white"/>
+    </g>
+  </g>
+  
+  <!-- Text -->
+  <g>
+    <text x="110" y="60" font-family="Outfit, sans-serif" font-size="36" font-weight="700" fill="#1E293B">IntelliCare</text>
+    <text x="110" y="85" font-family="Outfit, sans-serif" font-size="12" font-weight="500" fill="#64748B">AI Healthcare</text>
+  </g>
+</svg>

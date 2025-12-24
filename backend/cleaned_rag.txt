@@ -1,0 +1,600 @@
+Disease: Influenza. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 19. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Common Cold. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 25. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Eczema. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 25. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 25. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Eczema. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 25. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Influenza. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 25. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hyperthyroidism. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 28. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (Yes). Age: 28. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Allergic Rhinitis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 29. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Anxiety Disorders. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 29. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Common Cold. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 29. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Diabetes. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 29. Gender: Male. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Gastroenteritis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 29. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Pancreatitis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 29. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Rheumatoid Arthritis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 29. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Depression. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 29. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Liver Cancer. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 29. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 29. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Urinary Tract Infection. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 29. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Dengue Fever. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Eczema. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Gastroenteritis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Hepatitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Kidney Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Migraine. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Migraine. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Muscular Dystrophy. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Sinusitis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Ulcerative Colitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Ulcerative Colitis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Bipolar Disorder. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Bronchitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 30. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Bronchitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Cerebral Palsy. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Colorectal Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Eczema. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypertensive Heart Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Influenza. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Influenza. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Multiple Sclerosis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Myocardial Infarction (Heart.... Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 30. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Urinary Tract Infection (Uti). Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 30. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Asthma. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (Yes). Age: 31. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Osteoporosis. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (Yes). Age: 31. Gender: Male. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Common Cold. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 31. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Migraine. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 31. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Pneumonia. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 32. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Allergic Rhinitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 35. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Atherosclerosis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Chronic Obstructive Pulmonary.... Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 35. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Common Cold. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Eczema. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Epilepsy. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Hypertension. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Hyperthyroidism. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Obsessive-Compulsive Disorde.... Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Pneumonia. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Psoriasis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Psoriasis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Rubella. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Urinary Tract Infection (Uti). Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 35. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Cirrhosis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Conjunctivitis (Pink Eye). Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Depression. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Gastroenteritis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 35. Gender: Male. Blood Pressure: Low. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hyperthyroidism. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Kidney Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Liver Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Liver Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Malaria. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Migraine. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Migraine. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pancreatitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Rheumatoid Arthritis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Rheumatoid Arthritis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Spina Bifida. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Ulcerative Colitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Ulcerative Colitis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 35. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Urinary Tract Infection. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 35. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Allergic Rhinitis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Depression. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Gastroenteritis. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Influenza. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Kidney Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 38. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Liver Cancer. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Liver Disease. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 38. Gender: Male. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Osteoporosis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Anxiety Disorders. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 38. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Diabetes. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 38. Gender: Male. Blood Pressure: High. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Migraine. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 38. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Osteoarthritis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 38. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pneumonia. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 38. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Klinefelter Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 39. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Acne. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Brain Tumor. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Bronchitis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 40. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Cystic Fibrosis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Diabetes. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Glaucoma. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Osteoarthritis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Rabies. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 40. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Asthma. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 40. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Chickenpox. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Coronary Artery Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Eating Disorders (Anorexia,.... Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Fibromyalgia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Gastroenteritis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hemophilia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hyperthyroidism. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypoglycemia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Lymphoma. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pneumonia. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 40. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Psoriasis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Psoriasis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Psoriasis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 40. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Tuberculosis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 40. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Anxiety Disorders. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 42. Gender: Male. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Common Cold. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 42. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Depression. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (Yes). Age: 42. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Influenza. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 42. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Kidney Cancer. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 42. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Liver Cancer. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 42. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Liver Disease. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (Yes). Age: 42. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Lung Cancer. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 42. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Migraine. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 42. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Osteoarthritis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 42. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 42. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Urinary Tract Infection. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 42. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Diabetes. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 42. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hypothyroidism. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 42. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Kidney Disease. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 42. Gender: Female. Blood Pressure: High. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Pneumonia. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 43. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Allergic Rhinitis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Autism Spectrum Disorder (Asd). Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Crohn'S Disease. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Hepatitis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Hyperglycemia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Kidney Cancer. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Kidney Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Melanoma. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Migraine. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Ovarian Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Pancreatitis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Rheumatoid Arthritis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Stroke. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Turner Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Urinary Tract Infection. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Zika Virus. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Allergic Rhinitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Anxiety Disorders. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Cataracts. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Crohn'S Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Crohn'S Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Depression. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Diabetes. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Diabetes. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypothyroidism. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Liver Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Multiple Sclerosis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Osteoarthritis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Osteoporosis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pneumocystis Pneumonia (Pcp). Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pneumonia. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 45. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Scoliosis. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Sickle Cell Anemia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Tetanus. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 45. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 48. Gender: Female. Blood Pressure: Low. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Hypothyroidism. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 48. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Allergic Rhinitis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Anemia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Anxiety Disorders. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Cholera. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Crohn'S Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Crohn'S Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Depression. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: Low. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Diabetes. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Endometriosis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Hypertension. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Hypothyroidism. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Kidney Cancer. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Low. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Kidney Disease. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Pancreatitis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Low. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Rheumatoid Arthritis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: Low. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Sepsis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Sleep Apnea. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Urinary Tract Infection. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Bronchitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Down Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Ebola Virus. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Eczema. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Gastroenteritis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Klinefelter Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Liver Cancer. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Lyme Disease. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 50. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pancreatic Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pneumothorax. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 50. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Ulcerative Colitis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 50. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 52. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Multiple Sclerosis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 52. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Appendicitis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Bronchitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Bronchitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Common Cold. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 55. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Diabetes. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Esophageal Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Hiv/Aids. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Hypertension. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Liver Disease. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Marfan Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Migraine. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Osteoporosis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Parkinson'S Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Anxiety Disorders. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Coronary Artery Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hemorrhoids. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hypothyroidism. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Osteoarthritis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Osteoporosis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 55. Gender: Male. Blood Pressure: High. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Osteoporosis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Osteoporosis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Polycystic Ovary Syndrome (Pcos). Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Systemic Lupus Erythematosus.... Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 55. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Typhoid Fever. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 55. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Influenza. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 56. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Pneumonia. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 57. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Breast Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Coronary Artery Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Hyperthyroidism. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Measles. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Osteoarthritis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (Yes). Age: 60. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Osteomyelitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Osteoporosis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Osteoporosis. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Polio. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Asthma. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Chronic Kidney Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Hemophilia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hepatitis B. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Low. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Hypertension. Symptoms: Fever (No), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Kidney Cancer. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Kidney Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Osteoporosis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Pancreatitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Parkinson'S Disease. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 60. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Prader-Willi Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Rheumatoid Arthritis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Thyroid Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Tuberculosis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 60. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Bladder Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Diabetes. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Otitis Media (Ear Infection). Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: Low. Outcome: Negative.
+
+Disease: Tourette Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Urinary Tract Infection (Uti). Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Alzheimer'S Disease. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Alzheimer'S Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Bronchitis. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 65. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Chronic Obstructive Pulmonary Disease (Copd). Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (Yes). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Dementia. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Diabetes. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Diverticulitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Liver Cancer. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Lung Cancer. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Lung Cancer. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Mumps. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Osteoporosis. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 65. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Alzheimer'S Disease. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Female. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Cholecystitis. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Chronic Obstructive Pulmonary Disease (Copd). Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (Yes). Age: 70. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Negative.
+
+Disease: Osteoporosis. Symptoms: Fever (Yes), Cough (No), Fatigue (No), Difficulty Breathing (No). Age: 70. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Parkinson'S Disease. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Prostate Cancer. Symptoms: Fever (Yes), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 70. Gender: Male. Blood Pressure: High. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Schizophrenia. Symptoms: Fever (No), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Male. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Negative.
+
+Disease: Gout. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Female. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Migraine. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (No), Cough (Yes), Fatigue (No), Difficulty Breathing (No). Age: 70. Gender: Male. Blood Pressure: Normal. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Testicular Cancer. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Tonsillitis. Symptoms: Fever (Yes), Cough (Yes), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Williams Syndrome. Symptoms: Fever (No), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 70. Gender: Female. Blood Pressure: Normal. Cholesterol Level: Normal. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 80. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 85. Gender: Male. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
+Disease: Stroke. Symptoms: Fever (Yes), Cough (No), Fatigue (Yes), Difficulty Breathing (No). Age: 90. Gender: Female. Blood Pressure: High. Cholesterol Level: High. Outcome: Positive.
+
