@@ -1,25 +1,26 @@
 services:
-  # Backend API Service
+  # Backend API Service (Free Tier)
   - type: web
     name: intellicare-ai-backend
     env: python
     region: oregon
-    plan: starter
+    plan: free  # Free tier
     buildCommand: pip install -r backend/requirements.txt
     startCommand: cd backend && uvicorn app:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
       - key: GOOGLE_API_KEY
-        sync: false  # Set this in Render dashboard
+        sync: false  # Set this in Render dashboard (optional)
     healthCheckPath: /
+    autoDeploy: true
     
-  # Frontend Static Site
+  # Frontend Static Site (Free Tier)
   - type: web
     name: intellicare-ai-frontend
     env: node
     region: oregon
-    plan: starter
+    plan: free  # Free tier
     buildCommand: npm install && npm run build
     startCommand: npm run preview -- --host 0.0.0.0 --port $PORT
     envVars:
@@ -30,4 +31,5 @@ services:
           name: intellicare-ai-backend
           type: web
           property: host
+    autoDeploy: true
 

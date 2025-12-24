@@ -1,6 +1,6 @@
-# Deploying IntelliCare AI to Render
+# Deploying IntelliCare AI to Render (Free Tier)
 
-This guide will help you deploy both the frontend and backend services to Render.
+This guide will help you deploy both the frontend and backend services to Render using the **free tier**.
 
 ## Prerequisites
 
@@ -73,16 +73,32 @@ This guide will help you deploy both the frontend and backend services to Render
    - `NODE_VERSION`: `18.x`
    - `VITE_API_URL`: Your backend service URL (e.g., `https://intellicare-ai-backend.onrender.com`)
 
+## Free Tier Limitations
+
+**Important Notes about Render Free Tier:**
+- Services spin down after 15 minutes of inactivity
+- First request after spin-down may take 30-60 seconds to wake up
+- 750 hours/month of free usage (enough for always-on single service)
+- Build time limits apply
+- File size limits: 100MB per service
+
+**Recommendations:**
+- Both services will auto-spin down when not in use
+- First user after inactivity will experience a cold start delay
+- Consider upgrading to Starter plan ($7/month) for always-on services
+
 ## Important Notes
 
 ### Backend Service
 
 - The backend uses port `$PORT` (provided by Render)
+- Services on free tier will spin down after inactivity
 - Make sure all model files are committed to your repository:
   - `backend/ml_models/saved_models/*.pkl`
   - `backend/risk_model.pkl`
   - `backend/cleaned_rag.txt`
   - `backend/vector_store/` (if it contains files)
+- **File Size Warning**: If your ML models exceed 100MB, consider using Git LFS or external storage
 
 ### Frontend Service
 
