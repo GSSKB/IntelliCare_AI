@@ -1,9 +1,13 @@
 import axios from "axios";
 
+// Get API URL from environment variable or use default
+const API_URL = import.meta.env.VITE_API_URL || "";
+
 export async function sendMessage(message: string) {
   console.log("API: Sending message to backend:", message);
   try {
-    const response = await fetch("/api/chat", {
+    const apiEndpoint = API_URL ? `${API_URL}/chat` : "/api/chat";
+    const response = await fetch(apiEndpoint, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -24,7 +28,8 @@ export async function sendMessage(message: string) {
 }
 
 export function predictRisk(symptomsVector: number[]) {
-  return axios.post("/api/predict", { symptoms_vector: symptomsVector }, {
+  const apiEndpoint = API_URL ? `${API_URL}/predict` : "/api/predict";
+  return axios.post(apiEndpoint, { symptoms_vector: symptomsVector }, {
     headers: {
       'Content-Type': 'application/json',
     }
