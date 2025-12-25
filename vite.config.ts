@@ -20,6 +20,11 @@ export default defineConfig(({ mode }) => {
         },
       },
     },
+    preview: {
+      host: "0.0.0.0",
+      port: 4173,
+      allowedHosts: ["intellicare-ai-frontend.onrender.com", ".onrender.com"],
+    },
     plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
     resolve: {
       alias: {
