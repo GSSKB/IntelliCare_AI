@@ -21,12 +21,14 @@ class RAGService:
         Args:
             data_file_path: Path to the cleaned_rag.txt file
         """
-        # Try multiple possible paths
+        # Try multiple possible paths (including Render deployment paths)
+        current_dir = os.path.dirname(os.path.abspath(__file__))
         possible_paths = [
             data_file_path,
-            os.path.join(os.path.dirname(os.path.dirname(__file__)), "cleaned_rag.txt"),
-            "/Users/gsskb/Downloads/cleaned_rag.txt",
-            os.path.join(os.path.dirname(__file__), "data", "medical_docs", "cleaned_rag.txt"),
+            os.path.join(current_dir, "cleaned_rag.txt"),  # Same directory as this file
+            "cleaned_rag.txt",  # Current working directory
+            os.path.join(current_dir, "data", "medical_docs", "cleaned_rag.txt"),
+            os.path.join(os.path.dirname(current_dir), "cleaned_rag.txt"),  # Parent directory
         ]
         
         self.data_file_path = None
